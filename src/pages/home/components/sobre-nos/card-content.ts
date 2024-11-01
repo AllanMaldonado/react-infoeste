@@ -1,4 +1,4 @@
-import { CardType } from "./types";
+import { CardType } from "./type";
 
 export const CardContent = (): CardType[] => [
   {
